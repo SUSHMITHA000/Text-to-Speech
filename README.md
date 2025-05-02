@@ -1,24 +1,28 @@
-Text to Speech 🔊
+# 🔊 Text to Speech Converter
 
-A simple web-based Text-to-Speech converter using HTML, JavaScript, and PHP.
-
-🚀 Installation & Setup
-
-🔧 Prerequisites
-
-Make sure you have the following installed on your system:
-
-- A local web server like **XAMPP** or **WAMP**
-- A modern web browser (Chrome/Firefox)
+A simple web-based Text-to-Speech app using **HTML**, **JavaScript**, and **PHP**.
 
 ---
 
-📦 Steps to Run
+## 🚀 Installation & Setup
 
-1. Clone the Repository
-2. 
+### 🔧 Prerequisites
+
+Make sure the following are installed on your system:
+
+- 🧩 A local server like **XAMPP** or **WAMP**
+- 🌐 A modern web browser (e.g., Chrome, Firefox)
+
+---
+
+### 📦 How to Run
+
+#### 1. Clone the Repository
+
+```bash
 git clone https://github.com/SUSHMITHA000/Text-to-Speech.git
 cd Text-to-Speech
+
 
 2. Start the Local Server
 Open XAMPP
